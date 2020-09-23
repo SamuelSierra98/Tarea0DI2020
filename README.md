@@ -1,2 +1,2 @@
 # Tarea0DI2020
-Introducción al módulo de diseño de interfaces
+Introducció al módulo de diseño de interfaces
